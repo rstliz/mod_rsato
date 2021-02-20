@@ -6,9 +6,8 @@
 #include <http_log.h>
 #include <stdarg.h>
 
-#include <boost/format.hpp>
-
 #include "logger.hpp"
+
 
 #ifdef APLOG_USE_MODULE
 APLOG_USE_MODULE(rsato);

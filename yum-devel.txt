@@ -1,7 +1,6 @@
 libapreq-devel
 libapreq2-devel
 glib2-devel
-boost-devel
 json-devel
 cmake3
 gtest-devel
