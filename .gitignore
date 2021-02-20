@@ -1,0 +1,11 @@
+.vscode
+.metals
+.libs
+.libs/*.o
+*.o
+*.lo
+*.la
+*.slo
+*.d
+*.code-workspace
+src/test/build/
